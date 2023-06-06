@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AddressNew</string>
+    <string name="title_activity_address">AddressActivity</string>
+    <string name="address_person_hint">Введите ФИО клиента.</string>
+    <string name="address_street_hint">Введите улицу.</string>
+    <string name="address_building_hint">Введите номер здания.</string>
+    <string name="address_office_hint">Введите офис.</string>
+    <string name="book_title_label">Адрес</string>
+
+    <string name="new_address">Новый адрес</string>
+    <string name="show_subtitle">Показать подзаголовок</string>
+    <string name="hide_subtitle">Скрыть подзаголовок</string>
+    <string name="subtitle_format">%1$d адресов</string>
+
+
+</resources>
